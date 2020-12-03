@@ -3,8 +3,10 @@
 ## [Releases](https://github.com/yuk7/Android-ROMs/releases)
 
 ### Devices
-#### Galaxy S6 Edge Japan (SC-04G/SCV31/404SC) (ZerolteJPN)
-Tested on 404SC only.
+#### Galaxy S6 Edge Japan (SC-04G SCV31 404SC) (ZerolteJPN)
+Codename: zeroltesbm zeroltedcm zeroltekdi
+
+Tested on 404SC (zeroltesbm) only.
 ##### Android 10
 * [crDroidAndroid-10.0-20200416-zeroltejpn-v6.5.zip](https://github.com/yuk7/Android-ROMs/releases/tag/zeroltejpn-20120300)
 
