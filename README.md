@@ -10,7 +10,7 @@ Tested on 404SC (zeroltesbm) only.
 ##### Android 10
 * [crDroidAndroid-10.0-20200416-zeroltejpn-v6.5.zip](https://github.com/yuk7/Android-ROMs/releases/tag/zeroltejpn-20120300)
 
-* [PixelExperience_Plus_zeroltejpn-10.0-20200923_UNOFFICIAL.zip.zip](https://github.com/yuk7/Android-ROMs/releases/tag/zeroltejpn-21052400)
+* [PixelExperience_Plus_zeroltejpn-10.0-20200923_UNOFFICIAL.zip](https://github.com/yuk7/Android-ROMs/releases/tag/zeroltejpn-21052400)
 
 ##### Android 9
 * [NexusOS-9-zeroltejpn-mod-2018-12-11_1637.zip](https://github.com/yuk7/Android-ROMs/releases/tag/zeroltejpn-18121500)
